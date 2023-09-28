@@ -1,6 +1,7 @@
 # SignIn sample app
 
 A sample app that showcases some examples for how to get users to be signed in on Android apps.
+[Link](https://docs.google.com/presentation/d/e/2PACX-1vTNzVKRjXTTJZqcpjq7Ip2AFrjNBAlm_6UamU-IRPqsDQ1an63KDio-eYvybrQxPf7e07KRlv-eW7d9/pub?start=false&loop=false&delayms=3000) to presentation slides.
 
 ![start screen for the app](/screenshots/start_screen.png)
 
