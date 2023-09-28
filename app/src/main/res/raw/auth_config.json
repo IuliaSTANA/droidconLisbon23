@@ -1,0 +1,12 @@
+{
+  "client_id": "1098019520164-j0k0comfm3hhk615itmb6g72a5khmfis.apps.googleusercontent.com",
+  "redirect_uri": "org.me.signin:/oauth2redirect",
+  "end_session_redirect_uri": "org.me.signin:/logout",
+  "authorization_scope": "profile email openid",
+  "discovery_uri": "https://accounts.google.com/.well-known/openid-configuration",
+  "authorization_endpoint_uri": "https://accounts.google.com/o/oauth2/v2/auth",
+  "token_endpoint_uri": "https://www.googleapis.com/oauth2/v4/token",
+  "registration_endpoint_uri": "",
+  "user_info_endpoint_uri": "",
+  "https_required": false
+}

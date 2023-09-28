@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="title_activity_add_account">AddAccountActivity</string>
+
+    <string name="auth_biometric_title">Use your biometric</string>
+    <string name="auth_biometric_dialog_title">Do you want to use biometric to log in?</string>
+    <string name="auth_biometric_dialog_cancel">Use password</string>
+    <string name="biometric_failed_unknown">Biometrics failed for unknown reason.</string>
+</resources>
